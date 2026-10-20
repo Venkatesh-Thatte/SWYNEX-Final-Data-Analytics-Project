@@ -60,6 +60,7 @@ Key Findings
 
 
 Dashboard
+
 The interactive Excel dashboard consolidates KPI cards, charts, sales summaries, and filtering functionality to support exploration of sales performance. Use the dashboard workbook to review overall performance and compare products, cities, and sales representatives. Interactivity may depend on Excel desktop features such as PivotTables and slicers.
 
 
